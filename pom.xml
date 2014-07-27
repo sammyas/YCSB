@@ -70,7 +70,6 @@
     <module>elasticsearch</module>
     <!--<module>gemfire</module>-->
     <module>jdbc</module>
-    <module>mapkeeper</module>
     <module>mongodb</module>
     <module>orientdb</module>
     <!--module>nosqldb</module-->
