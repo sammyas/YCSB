@@ -69,7 +69,6 @@
     <module>dynamodb</module>
     <module>elasticsearch</module>
     <!--<module>gemfire</module>-->
-    <module>infinispan</module>
     <module>jdbc</module>
     <module>mapkeeper</module>
     <module>mongodb</module>
